@@ -22,7 +22,7 @@ See [BEGINNER_TASKS.md](BEGINNER_TASKS.md) for starter-friendly ideas.
 1. Find an issue labeled for GSSOC 2026.
 2. Comment on the issue to request assignment.
 3. Wait for maintainer confirmation before starting work.
-4. Fork the repo, create a branch, and open a PR.
+4. Fork the repo, branch from `dev`, and open a PR back into `dev` unless the maintainer says otherwise.
 
 ## Making changes
 
@@ -37,10 +37,10 @@ See [BEGINNER_TASKS.md](BEGINNER_TASKS.md) for starter-friendly ideas.
 
 ## Pull request process (public repo)
 
-- Create a feature branch with a descriptive name.
+- Create a feature branch from `dev` with a descriptive name.
 - Keep PRs small and scoped to a single issue.
 - Include screenshots or recordings for UI changes.
-- Link the issue in the PR description.
+- Link the issue in the PR description and target `dev` as the base branch.
 
 ## Code style requirements
 

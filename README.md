@@ -296,6 +296,7 @@ Interested in helping out? Start with [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - Issues are tracked on this repo with GSSOC labels and clear scope.
 - Contributions here focus on frontend UI and public docs.
+- Branch from `dev` for contributor work and open PRs back into `dev` unless the maintainer instructs otherwise.
 - If you need backend access for accurate diagnosis, request read access from the maintainer.
 - **We genuinely appreciate every contribution. Contributors will be recognized in the in-app About Us section to honor their work.**
 

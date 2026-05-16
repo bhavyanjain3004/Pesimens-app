@@ -1,6 +1,7 @@
 # Summary
 
 - [ ] I linked the issue this PR addresses
+- [ ] I targeted `dev` as the base branch unless instructed otherwise
 - [ ] I kept the change scoped to one issue
 - [ ] I added screenshots or recordings for UI changes
 - [ ] I added testing notes
